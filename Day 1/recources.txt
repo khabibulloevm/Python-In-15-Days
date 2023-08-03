@@ -1,4 +1,4 @@
 Python Official Documentation:
 https://www.python.org/doc6
-1 Codecademy Python Course:
+Codecademy Python Course:
 https://www.codecademy.com/learn/learn-python-3
