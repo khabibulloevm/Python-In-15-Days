@@ -23,7 +23,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Learn Python in 15 Days Repository
+# Learn Python in 15 Days 
 Welcome to the repository for learning the Python programming language in just 15 days! Here, you will find everything you need to start your journey in programming with Python.
 
 ## About the Project
